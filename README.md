@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ninjadrknss
-- 👀 I’m interested in Discord.js
+- 👀 I’m interested in creating discord bots
 - 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on my discord bot
+- 💞️ I’m looking to collaborate on any discord bot
 - 📫 How to reach me: Discord
 
 <!---
