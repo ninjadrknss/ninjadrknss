@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ninjadrknss
-- 👀 I’m interested in creating discord bots
+- 👀 I’m interested in WPI-Lib
 - 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on any discord bot
 - 📫 How to reach me: Discord
 
 <!---
